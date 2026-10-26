@@ -23,6 +23,7 @@ https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=02b0d6aa78d547af890c9e27113e81af:890160f8ece56b8cd232889acb74e276
 https://abslive.akamaized.net/dash/live/2027618/pinoybigbrothercollabedition30live/manifest.mpd
+
 #EXTINF:-1 tvg-chno="1" channel-number="1" tvg-id="PjStreamTV" tvg-logo="https://i.imgur.com/dpGrvi4.jpeg" tvg-name="DURIAN TV" group-title="PjStreamTV",DURIAN TV
 https://duriantv.tonia3305.workers.dev/master.live.m3u8
-i.imgur.com
+
