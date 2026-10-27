@@ -1,5 +1,4 @@
-#EXTINF:-1 tvg-chno="778" channel-number="778" tvg-id="PBB 3.0 Dining Area Livestream" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" tvg-name="PBB 3.0 Dining Area Livestream" group-title="NIKKO STREAM
-",PBB 3.0 Dining Area Livestream
+#EXTINF:-1 tvg-chno="778" channel-number="778" tvg-id="PBB 3.0 Dining Area Livestream" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" tvg-name="PBB 3.0 Dining Area Livestream" group-title="NIKKO STREAM",PBB 3.0 Dining Area Livestream
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
