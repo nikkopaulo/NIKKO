@@ -19,7 +19,7 @@ https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream
 #KODIPROP:inputstream.adaptive.license_key=5208606a1a5e4750bc7aaafa3bbad84c:246d9c7efc6d96d8d596aa294313e17b
 https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.imghippo.com/i/pRSW3324Ccg.jpg" group-title="NIKKO STREAM", PBB 3.0 MAIN LIVE
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/qRMB9918VOM.jpg" group-title="NIKKO STREAM", PBB 3.0 MAIN LIVE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
